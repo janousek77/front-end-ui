@@ -1,0 +1,107 @@
+body{
+  background-color: #666;
+  position: relative;
+}
+
+header{
+  width: auto;
+  height: 50px;
+  position: relative;
+}
+
+h1{
+  font-size: 28px;
+}
+
+h3{
+  font-size: 16px;
+  opacity: .5;
+}
+
+#log{
+  text-align: center;
+  font-size: 15px;
+  border: 0px;
+  height: 34px;
+  width: 127px;
+  border-radius: 4px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  font-weight: bold;
+}
+
+section{
+  width: 800px;
+  height: 533px;
+  background-color: #fff;
+  border-radius: 8px;
+  margin-left: 350px;
+  margin-top: 60px;
+  position: relative;
+  border-radius: 8px;
+}
+
+#imgDiv{
+  width: 400px;
+  height: 533px;
+  float: left;
+  border-radius: 8px;
+}
+
+#midLeft{
+  width: 100%;
+  height: 100%;
+}
+
+#right{
+  width: 400px;
+  height: 533px;
+  float: left;
+  text-align: center;
+}
+
+#right img{
+  margin-top: 40px;
+}
+
+.button{
+  width: 250px;
+  height: 36px;
+}
+
+input{
+  width: 250px;
+  height: 30px;
+}
+
+#uName{
+  margin-bottom: 7px;
+}
+
+strong{
+  font-size: 18px;
+}
+
+#red{
+  background-color: #bd081c;
+  color: white;
+}
+
+#blue{
+  margin-top: 12px;
+  background-color: #4267B2;
+  color: white;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  opacity: 1;
+}
+
+#bottom{
+  opacity: 0.5;
+  font-size: 13px;
+}
